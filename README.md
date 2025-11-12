@@ -1,4 +1,8 @@
 🐶 The Beagle Blog
+
+### 🌐 Live Demo
+[View Project on GitHub Pages](https://sudev0707.github.io/accio-beagle/)
+
 📘 Project Overview
 
 The Beagle Blog is a simple HTML and CSS project that showcases information about the Beagle dog breed.
